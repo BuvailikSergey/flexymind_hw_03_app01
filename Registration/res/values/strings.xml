@@ -9,6 +9,9 @@
     <string name="hello_world">Hello world!</string>
     <string name="user_name">Username</string>
     <string name="user_city">City:</string>
+	<string name="hobby_guitar">Guitar:</string>
+	<string name="hobby_travel">Travel:</string>
+	<string name="hobby_read">Read:</string>
     
     <string-array name="citylist">
     	<item>Moscow</item>
