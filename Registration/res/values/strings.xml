@@ -8,5 +8,13 @@
     <string name="title_activity_reg">RegActivity</string>
     <string name="hello_world">Hello world!</string>
     <string name="user_name">Username</string>
+    <string name="user_city">City:</string>
+    
+    <string-array name="citylist">
+    	<item>Moscow</item>
+    	<item>Saint-Petersburg</item>
+    	<item>Krasnoyarsk</item>
+    	<item>London</item>
+	</string-array>
 
 </resources>
