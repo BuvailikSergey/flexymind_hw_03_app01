@@ -26,4 +26,7 @@ public class MainActivity extends Activity {
 		startActivity(intent);
 	}
 
+	public void goToExit(View view) {
+		finish();
+	}
 }
