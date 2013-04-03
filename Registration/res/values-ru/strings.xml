@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Регистратор</string>
+    <string name="action_settings">Настройки</string>
+    <string name="registration">Регистрация</string>
+    <string name="exit">Выход</string>
+    <string name="title_activity_reg">RegActivity</string>
+    <string name="user_name">Имя:</string>
+    <string name="user_city">Город:</string>
+	<string name="hobby_guitar">Гитара:</string>
+	<string name="hobby_travel">Путешествия:</string>
+	<string name="hobby_read">Чтение:</string>
+	<string name="user_date">Дата:</string>
+    
+    <string-array name="citylist">
+    	<item>Москва</item>
+    	<item>Санкт-Петербург</item>
+    	<item>Красноярск</item>
+    	<item>Лондон</item>
+	</string-array>
+
+</resources>
