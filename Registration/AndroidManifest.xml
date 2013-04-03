@@ -24,7 +24,8 @@
         </activity>
         <activity
             android:name="com.flexymind.registration.RegActivity"
-            android:label="@string/title_activity_reg" >
+            android:label="@string/title_activity_reg" 
+            android:screenOrientation="portrait">
         </activity>
     </application>
 
