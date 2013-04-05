@@ -2,16 +2,24 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    >
+    android:orientation="vertical" >
 
-    <Button android:id="@+id/buttonReg"
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/xlarge_text"
+        android:layout_gravity="center"
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/buttonReg"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="goToReg"
         android:text="@string/registration" />
-    
-    <Button android:id="@+id/buttonExit"
+
+    <Button
+        android:id="@+id/buttonExit"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="goToExit"
