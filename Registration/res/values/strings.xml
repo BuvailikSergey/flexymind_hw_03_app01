@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Registration</string>
+    <string name="action_settings">Settings</string>
+    <string name="registration">Registration</string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_reg">RegActivity</string>
+    <string name="user_name">Username:</string>
+    <string name="user_city">City:</string>
+	<string name="hobby_guitar">Guitar:</string>
+	<string name="hobby_travel">Travel:</string>
+	<string name="hobby_read">Read:</string>
+	<string name="user_date">Date:</string>
+	<string name="xlarge_text">X-large screen:</string>
+    
+    <string-array name="citylist">
+    	<item>Moscow</item>
+    	<item>Saint-Petersburg</item>
+    	<item>Krasnoyarsk</item>
+    	<item>London</item>
+	</string-array>
+
+</resources>
